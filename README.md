@@ -17,6 +17,6 @@ This project is an automated cold email generator leveraging LLama 3.1 to genera
 5. **Email Generation:** The LLaMA 3.1 70B model generates a personalized cold email, incorporating the job details and relevant portfolio links.
 
 ## Tech Stack
-**LangChain:** For creating AI-powered chains of operations
-**Chroma:** Vector database for storing and querying portfolio data
-**Groq:** For generating cold emails with fast inference
+* **LangChain:** For creating AI-powered chains of operations
+* **Chroma:** Vector database for storing and querying portfolio data
+* **Groq:** For generating cold emails with fast inference
