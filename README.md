@@ -1,8 +1,9 @@
 # Cold-Email-Llama
-![Project image](project_img.png)
 
 ## About
 This project is an automated cold email generator leveraging LLama 3.1 to generate personalized emails and Chromadb to include relevant portfolios based on the skills provided on job postings.
+
+![Project image](project_img.png)
 
 ## Features
 * **Job Description Extraction:** Automatically extracts job details from a given URL, including role, experience, skills, and description.
